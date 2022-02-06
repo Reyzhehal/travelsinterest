@@ -1,0 +1,4 @@
+django
+lxml
+django_compressor
+django-libsass
